@@ -1,0 +1,7 @@
+The Debian Package kgp-webserver
+----------------------------
+
+This package provides dependencies and adaptations on a default webserver
+for the KGP project. (Currently nginx)
+
+ -- Tor Krill <tor@openproducts.se>  Thu, 13 Jun 2019 15:16:15 +0200

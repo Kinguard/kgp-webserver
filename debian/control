@@ -1,0 +1,16 @@
+Source: kgp-webserver
+Section: devel
+Priority: optional
+Maintainer: Tor Krill <tor@openproducts.se>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: https://www.kinguardproject.org
+#Vcs-Git: https://anonscm.debian.org/git/collab-maint/kgp-webserver.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/kgp-webserver.git
+
+Package: kgp-webserver
+Architecture: all
+Depends: ${misc:Depends} nginx-light
+Description: virtual webserver package for the KGP project 
+ kgp-webserver provides dependencies and setup of the current
+ webserver used by the kgp-project.
