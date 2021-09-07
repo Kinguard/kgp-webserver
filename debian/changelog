@@ -1,3 +1,9 @@
+kgp-webserver (1.0.1) vili; urgency=medium
+
+  * Buster release
+
+ -- Tor Krill <tor@openproducts.se>  Tue, 07 Sep 2021 09:36:30 +0200
+
 kgp-webserver (1.0.1~test2) vili; urgency=medium
 
   * Buster update
