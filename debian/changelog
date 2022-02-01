@@ -1,3 +1,9 @@
+kgp-webserver (1.0.2) vigrid; urgency=medium
+
+  * Bullseye build
+
+ -- Tor Krill <tor@openproducts.se>  Tue, 01 Feb 2022 07:54:53 +0100
+
 kgp-webserver (1.0.1) vili; urgency=medium
 
   * Buster release
